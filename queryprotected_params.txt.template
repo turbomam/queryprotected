@@ -1,0 +1,8 @@
+serviceURL = http://PRIVATE:7200
+username = PRIVATE
+password = PRIVATE
+repository = PRIVATE
+inputQuery = sample_input.txt
+outputFile = output.txt
+bareLiterals = true
+triples2stdout = false

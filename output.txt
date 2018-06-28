@@ -1,0 +1,34 @@
+s	lstr	
+http://www.w3.org/2000/01/rdf-schema#label	label	
+http://www.w3.org/2000/01/rdf-schema#seeAlso	seeAlso	
+http://purl.org/dc/elements/1.1/title	Title	
+http://purl.org/dc/elements/1.1/title	Title	
+http://purl.org/dc/elements/1.1/source	Source	
+http://purl.org/dc/elements/1.1/source	Source	
+http://purl.org/dc/elements/1.1/contributor	Contributor	
+http://purl.org/dc/elements/1.1/contributor	Contributor	
+http://purl.obolibrary.org/obo/IAO_0000232	curator note	
+http://purl.obolibrary.org/obo/IAO_0000232	curator note	
+http://purl.obolibrary.org/obo/IAO_0000232	curator notes	
+http://purl.obolibrary.org/obo/BFO_0000179	BFO OWL specification label	
+http://purl.obolibrary.org/obo/BFO_0000179	BFO OWL specification label	
+http://purl.obolibrary.org/obo/IAO_0000111	editor preferred label	
+http://purl.obolibrary.org/obo/IAO_0000111	editor preferred label	
+http://purl.obolibrary.org/obo/IAO_0000111	editor preferred term	
+http://purl.obolibrary.org/obo/IAO_0000111	editor preferred term	
+http://purl.obolibrary.org/obo/IAO_0000111	editor preferred term~editor preferred label	
+http://purl.obolibrary.org/obo/IAO_0000115	definition	
+http://purl.obolibrary.org/obo/IAO_0000115	definition	
+http://purl.obolibrary.org/obo/IAO_0000115	textual definition	
+http://purl.obolibrary.org/obo/BFO_0000180	BFO CLIF specification label	
+http://purl.obolibrary.org/obo/BFO_0000180	BFO CLIF specification label	
+http://purl.obolibrary.org/obo/IAO_0000119	definition source	
+http://purl.obolibrary.org/obo/IAO_0000119	definition source	
+http://purl.obolibrary.org/obo/IAO_0000114	has curation status	
+http://purl.obolibrary.org/obo/IAO_0000114	has curation status	
+http://purl.obolibrary.org/obo/IAO_0000122	ready for release	
+http://purl.obolibrary.org/obo/IAO_0000078	curation status specification	
+http://purl.obolibrary.org/obo/IAO_0000117	definition editor	
+http://purl.obolibrary.org/obo/IAO_0000117	term editor	
+http://purl.obolibrary.org/obo/IAO_0000117	definition editor	
+http://purl.obolibrary.org/obo/IAO_0000117	term editor	
